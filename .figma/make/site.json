@@ -1,0 +1,10 @@
+{
+  "description": "Manage CTF competitions for Holy Name University with a streamlined admin dashboard, team management features, and private team score tracking.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
