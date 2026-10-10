@@ -6,7 +6,7 @@ Flag example should be; ***HNU{Dia_ra_ahoang_flag_39378743892492}***
 
 nya dapat lisod
 
-9hours hacking
+7hours hacking
 
 10 difficults  - 100 points
 
